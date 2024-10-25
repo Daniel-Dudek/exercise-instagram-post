@@ -26,7 +26,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 ## Estrategia
 
-Comienza por identificar que `<tags>` (etiquetas) HTML puedes usar para este sitio web, por ejemplo `<div>`, `<p>`, etc.
+Comienza por identificar qué `<tags>` (etiquetas) HTML puedes usar para este sitio web, por ejemplo `<div>`, `<p>`, etc.
 
 Aquí tienes una pista de una buena estrategia:
 
